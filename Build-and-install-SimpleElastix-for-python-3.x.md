@@ -1,4 +1,6 @@
-These are unofficial instructions to build SimpleElastix for python 3.x. These are slightly different steps to the official [instructions to build SimpleElastix for python 2.x](http://simpleelastix.readthedocs.io/GettingStarted.html). 
+These are unofficial instructions to build SimpleElastix for python 3.x. These are slightly different steps to the official [instructions to build SimpleElastix for python 2.x](http://simpleelastix.readthedocs.io/GettingStarted.html).
+
+These instructions have been tested with Ubuntu 16.04 (Xenial).
 
 1. Install dependencies
 
